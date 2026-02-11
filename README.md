@@ -63,6 +63,12 @@ and building them better again — whether hardware or code ✨
 
 ⭐ **Always building. Always improving. Always curious.**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NadineJuliana/NadineJuliana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NadineJuliana/NadineJuliana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NadineJuliana/NadineJuliana/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--
 **NadineJuliana/NadineJuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
