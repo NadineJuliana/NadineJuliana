@@ -1,6 +1,6 @@
 # Hi, I'm Nadine 👋
 
-💻 Frontend Developer (Angular)  
+💻 Frontend Developer 
 🔧 Automotive Tech Background  
 📍 near Munich  
 
@@ -18,44 +18,27 @@ with experience in **APIs and databases** through frontend projects, and plannin
 ---
 
 ## 🛠 Tech Stack
-
-### 💡 Languages
-<div align="start">
+  
+### 💡 Languages   🎨 Frontend   🧰 Tools
+<div align="start"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-
-### 🎨 Frontend
-<div align="start">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-</div>
-
-
-### 🧰 Tools
-<div align="start">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-
----
-
-## 🔌 Experience
-
-✔ Developed frontend projects using Angular and JavaScript  
-✔ Worked with TypeScript & SCSS  
-✔ Connected and used REST APIs  
 
 ---
 
@@ -73,16 +56,8 @@ and building them better again — whether hardware or code ✨
 ---
 
 ## 📌 Current Projects
-
-🔹 Angular projects  
+  
 🔹 Group project with Angular + Supabase 🚀  
-
----
-
-## 📫 Contact
-
-LinkedIn: 
-Portfolio: 
 
 ---
 
