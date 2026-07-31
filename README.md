@@ -22,7 +22,7 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 <div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
   <img width="12" />
@@ -52,7 +52,7 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 <div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
 </div>
 
 ### 🚀 Deployment
