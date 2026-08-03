@@ -87,13 +87,13 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NadineJuliana&show_icons=true&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=NadineJuliana&show_icons=true&theme=transparent&hide_border=true"
     height="165"
     alt="Nadine's GitHub stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadineJuliana&layout=compact&theme=transparent&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=NadineJuliana&layout=compact&theme=transparent&hide_border=true"
     height="165"
     alt="Nadine's most used languages"
   />
