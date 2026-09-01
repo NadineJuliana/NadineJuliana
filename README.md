@@ -53,6 +53,8 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
 
 ### 🚀 Deployment
@@ -68,15 +70,27 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 
 ### 🧪 Testing
 
-**Test Driven Development (TDD)**
+**Test Driven Development (TDD) · Unit & API Testing**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| --- | --- | --- | --- |
+| **Coderr** | Service marketplace with authentication, offers, orders and reviews | Angular · Django REST Framework | [Live Demo](https://coderr.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Coderr) |
+| **JOIN** | Kanban-style task management application with drag & drop, contacts and authentication | Angular · TypeScript · Supabase | [Live Demo](https://join.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Join-Project) |
+| **Portfolio** | Personal developer portfolio showcasing my projects, skills and development journey | Angular · TypeScript · SCSS | [Live Demo](https://nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Portfolio) |
+| **El Pollo Loco** | Browser-based 2D jump-and-run game built with object-oriented JavaScript | JavaScript · HTML · CSS | [Live Demo](https://el-pollo-loco.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/-El-Pollo-Loco-) |
+| **Pokédex** | Interactive Pokédex using external API data to browse and explore Pokémon | JavaScript · REST API · HTML · CSS | [Live Demo](https://pokedex.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Pokedex) |
 
 ---
 
 ## 🚀 Current Focus
 
-🔹 Building Fullstack applications with Angular & Django REST Framework
+🔹 Building fullstack applications with **Angular & Django REST Framework**
 
-🔹 Learning Docker, Linux & Cloud Deployment
+🔹 Working with **Docker, Linux & Cloud Deployment**
 
 🔹 Writing clean and well-tested code using TDD
 
