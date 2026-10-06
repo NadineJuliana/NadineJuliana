@@ -78,6 +78,7 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 
 | Project | Description | Tech Stack | Links |
 | --- | --- | --- | --- |
+| **Videoflix** | Fullstack video platform with authentication and video streaming | Angular · Django REST Framework · PostgreSQL · Docker | [Repository](https://github.com/NadineJuliana/Videoflix) |
 | **Coderr** | Service marketplace with authentication, offers, orders and reviews | Angular · Django REST Framework | [Live Demo](https://coderr.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Coderr) |
 | **JOIN** | Kanban-style task management application with drag & drop, contacts and authentication | Angular · TypeScript · Supabase | [Live Demo](https://join.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Join-Project) |
 | **Portfolio** | Personal developer portfolio showcasing my projects, skills and development journey | Angular · TypeScript · SCSS | [Live Demo](https://nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Portfolio) |
@@ -120,9 +121,3 @@ and building them better again — whether hardware or code ✨
 ---
 
 ⭐ **Always building. Always improving. Always curious.**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NadineJuliana/NadineJuliana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NadineJuliana/NadineJuliana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NadineJuliana/NadineJuliana/output/pacman-contribution-graph.svg">
-</picture>
