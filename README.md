@@ -78,10 +78,10 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 
 | Project | Description | Tech Stack | Links |
 | --- | --- | --- | --- |
-| **Videoflix** | Fullstack video platform with authentication and video streaming | Angular · Django REST Framework · PostgreSQL · Docker | [Repository](https://github.com/NadineJuliana/Videoflix) |
-| **Coderr** | Service marketplace with authentication, offers, orders and reviews | Angular · Django REST Framework | [Live Demo](https://coderr.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Coderr) |
+| **Videoflix** | Backend API for a video streaming platform with authentication and video management | Python · Django REST Framework · PostgreSQL · Docker · TDD | [Repository](https://github.com/NadineJuliana/Videoflix) |
+| **Coderr** | Backend API for a service marketplace with authentication, offers, orders and reviews, integrated with a provided frontend | Python · Django REST Framework · TDD | [Live Demo](https://coderr.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Coderr) |
 | **JOIN** | Kanban-style task management application with drag & drop, contacts and authentication | Angular · TypeScript · Supabase | [Live Demo](https://join.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Join-Project) |
-| **Portfolio** | Personal developer portfolio showcasing my projects, skills and development journey | Angular · TypeScript · SCSS | [Live Demo](https://nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Portfolio) |
+| **Portfolio** | Personal developer portfolio showcasing my projects and skills, with a focus on responsive design, accessibility and WCAG improvements | Angular · TypeScript · SCSS · Accessibility (WCAG) | [Live Demo](https://nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Portfolio) |
 | **El Pollo Loco** | Browser-based 2D jump-and-run game built with object-oriented JavaScript | JavaScript · HTML · CSS | [Live Demo](https://el-pollo-loco.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/-El-Pollo-Loco-) |
 | **Pokédex** | Interactive Pokédex using external API data to browse and explore Pokémon | JavaScript · REST API · HTML · CSS | [Live Demo](https://pokedex.nadine-juliana.de/) · [Repository](https://github.com/NadineJuliana/Pokedex) |
 
@@ -89,11 +89,13 @@ Currently focused on **Fullstack Development** with **Angular** and **Django RES
 
 ## 🚀 Current Focus
 
-🔹 Building fullstack applications with **Angular & Django REST Framework**
+🔹 Building fullstack applications with Angular & Django REST Framework
 
-🔹 Working with **Docker, Linux & Cloud Deployment**
+🔹 Deepening my knowledge of Docker, Linux & Deployment
 
-🔹 Writing clean and well-tested code using TDD
+🔹 Exploring AI-assisted development, AI agents & automation
+
+🔹 Improving code quality through TDD, testing & clean code practices
 
 ---
 
